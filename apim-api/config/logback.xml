@@ -41,7 +41,7 @@
         </encoder>
     </appender>
 
-    <logger name="io.gravitee" level="INFO" />
+    <logger name="io.gravitee" level="DEBUG" />
     <logger name="org.eclipse.jetty" level="INFO" />
     <logger name="io.vertx" level="DEBUG" />
     <logger name="io.netty" level="TRACE" />

@@ -1,0 +1,5 @@
+logs/
+metrics/
+.git/
+*.sh
+*.tar.gz
